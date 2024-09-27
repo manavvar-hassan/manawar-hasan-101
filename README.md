@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manawar-hasan-101
 - 👀 I’m interested in "web development"
-- 🌱 I’m currently learning "HTML, CSS"
+- 🌱 I’m currently learning "HTML, CSS, JavaScript"
 - 💞️ I’m looking to collaborate on "anyone"
 - 📫 How to reach me > my linkdin prfile "https://www.linkedin.com/in/munawwar-hasan-2334012b2/"
 - 😄 Pronouns: Munawwar Hasan
